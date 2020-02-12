@@ -7,29 +7,42 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Password Generator</title>
     <link rel="stylesheet" href="style.css" />
+    <script src="script.js"></script>
   </head>
   <body>
     <div class="wrapper">
       <header>
-        <h1>Password Generator</h1>
+        <h1 style="font-size: 8vw">The Generator</h1>
       </header>
-      <div class="card">
-        <div class="card-header">
-          <h2>Generate a Password</h2>
-        </div>
-        <div class="card-body">
-          <textarea
+      <nav class="card align-items-center" style="width: 85rem;">
+      <div class="card text-center">
+        <div class = "container">
+          <div class="row">
+            <div class="col-lmd-12 col-sm-12 mx.auto">
+        <nav class="card-header">
+          Welcome To Security
+        </nav>
+        <textarea
             readonly
             id="password"
             placeholder="Your Secure Password"
             aria-label="Generated Password"
           ></textarea>
-        </div>
-        <div class="card-footer">
-          <button id="generate" class="button">Generate Password</button>
+
+        <nav class="card-body">
+          <h5 class="card-title">Secure Password Generator</h5>
+          <!-- <p class="card-text">With supporting text below as a natural lead-in to additional content.</p> -->
+          <a href="#" class="btn btn-primary" onclick="myFunction()">Generate Password</a>
+          
+      
+        </nav>
+        <nav class="card-footer text-muted">
+          Stay Safe
+        </nav>
+      </div>
         </div>
       </div>
-    </div>
+    </nav>
     <script src="script.js"></script>
   </body>
 </html>

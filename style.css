@@ -1,0 +1,24 @@
+.wrapper {
+    text-align: center;
+    
+}
+
+
+.btn {
+    background-color: red;
+}
+
+.button {
+    background-color: red;
+    color: white;
+    
+}
+
+.cardtext-center {
+    text-align: center;
+
+}
+
+.card-footertext-muted {
+    font-size: larger;
+}
