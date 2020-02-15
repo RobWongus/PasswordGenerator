@@ -27,15 +27,19 @@ header {
   text-align: center;
   padding: 20px;
   padding-top: 0px;
-  color: hsl(206, 17%, 28%);
+  color: hsl(195, 100%, 2%);
+}
+
+.card-header {
+    text-align: center;
 }
 
 .card {
-  background-color: hsl(0, 0%, 100%);
+  background-color: hsl(0, 90%, 45%);
   border-radius: 5px;
   border-width: 1px;
   box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px 0px;
-  color: hsl(206, 17%, 28%);
+  color: hsl(260, 30%, 96%);
   font-size: 18px;
   margin: 0 auto;
   max-width: 800px;
@@ -46,7 +50,7 @@ header {
   content: " ";
   display: block;
   width: 100%;
-  background: #e7e9eb;
+  background: #fdf9fc;
   height: 2px;
 }
 
@@ -62,7 +66,7 @@ header {
   content: " ";
   display: block;
   width: 100%;
-  background: #e7e9eb;
+  background: #fcfafb;
   height: 2px;
 }
 
@@ -74,7 +78,7 @@ header {
 
 .btn {
   border: none;
-  background-color: rgb(35, 4, 121);
+  background-color: rgb(23, 8, 161);
   border-radius: 25px;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 6px 0px rgba(0, 0, 0, 0.2) 0px 1px 1px
     0px;
@@ -86,7 +90,7 @@ header {
   padding: 14px 34px;
   text-align: center;
   cursor: pointer;
-
+  
 }
 
 button[disabled] {
@@ -131,7 +135,7 @@ button[disabled] {
   }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 600px) {
   .btn {
     font-size: 0.8rem;
   }
