@@ -15,7 +15,7 @@ Created with React npm install: axios Compressions Bootstrap gh-pages
 none
 
 ## Useage 
-Create passwords 
+Create Passwords 
 
 ## Contributors
 
