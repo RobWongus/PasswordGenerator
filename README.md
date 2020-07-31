@@ -4,7 +4,7 @@ Password Generator Using Java Script
 
  ![Password Generator Image](/images/passwordgenerator(2).png)
 
-Using the app the user can creat passwords using the criteria of: number of characters, case sensitivity of characters, numbers and symbols. 
+Using the app the user can create passwords using the criteria of: number of characters, case sensitivity of characters, numbers and symbols. 
 
 ## Installation
 
