@@ -30,7 +30,7 @@ none
 
 ## License 
 MIT
-
+[![GitHub license](https://img.shields.io/github/license/RobWongus/passwordgenerator)](https://github.com/RobWongus/passwordgenerator/blob/master/LICENSE)
 ## E-Mail
 
 RobWongus@gmail.com
