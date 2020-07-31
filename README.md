@@ -21,7 +21,12 @@ Create passwords
 
 none
 
-## Questions none
+## Questions 
+none
+
+## Deployed Link
+
+[![GitHub Link](https://img.shields.io/badge/passwordgenerator)](https://robwongus.github.io/PasswordGenerator/)
 
 ## License 
 MIT
