@@ -26,7 +26,7 @@ none
 
 ## Deployed Link
 
-[![GitHub Link](https://img.shields.io/badge/passwordgenerator)](https://robwongus.github.io/PasswordGenerator/)
+[![GitHub Link](https://img.shields.io/badge/Link-PasswordGenerator-Blue)](https://robwongus.github.io/PasswordGenerator/)
 
 ## License 
 MIT
