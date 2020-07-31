@@ -29,7 +29,7 @@ none
 [![GitHub Link](https://img.shields.io/badge/Link-PasswordGenerator-Blue)](https://robwongus.github.io/PasswordGenerator/)
 
 ## License 
-MIT
+
 [![GitHub license](https://img.shields.io/github/license/RobWongus/passwordgenerator)](https://github.com/RobWongus/passwordgenerator/blob/master/LICENSE)
 ## E-Mail
 
